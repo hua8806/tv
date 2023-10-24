@@ -1,7 +1,7 @@
 {
   "wallpaper": "./t/",
   "spider": "./jar.php?id=ou;md5;9d587c4abbdbc3fdbec5cd39ebba95e8",
-  "warningText": "公众号欧歌app软件接口免费，长期维护，切勿贩卖。",
+  "warningText": "每在影视长期维护，切勿贩卖。",
   "lives": [
     {
       "name": "live",
@@ -30,7 +30,7 @@
     },
     {
       "key": "drpy_js_榜单荐片2",
-      "name": "📢公众号欧歌app榜单荐片",
+      "name": "📢公每在影视app榜单荐片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/drpy.js"
