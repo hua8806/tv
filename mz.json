@@ -19,6 +19,21 @@
       "filterable":1
     },
     {
+      "key": "每在影视",
+      "name": "每在┃影视",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
       "key": "PT",
       "name": "🐞短剧┃剧场",
       "type": 3,
