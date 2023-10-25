@@ -57,8 +57,8 @@
       "key": "荐片",
       "name": "🎬┃每在┃荐片",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/jp.js"
     },
     {
       "key": "直播转点播",
