@@ -19,6 +19,52 @@
       "filterable":1
     },
     {
+      "key": "csp_xml_腾讯视频",
+      "name": "腾讯视频",
+      "type": 1,
+      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.xmflv.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_芒果视频",
+      "name": "芒果视频",
+      "type": 1,
+      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.xmflv.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_爱奇视频",
+      "name": "爱奇视频",
+      "type": 1,
+      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.xmflv.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xml_哔哩哔哩",
+      "name": "哔哩哔哩",
+      "type": 1,
+      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.xmflv.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "猫眼电影",
+      "name": "猫眼电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"
+    },
+    {
       "key": "每在影视",
       "name": "每在┃影视",
       "type": 1,
