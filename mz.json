@@ -925,7 +925,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL+aIkeS4jeaYry7ogqXnjKsubG92ZTo2My9UVi90dnpiLnR4dA=="
+            "proxy://do=live&type=txt&ext=https://ghproxy.com/https://github.com/hua8806/tv/blob/main/lib/tvzb.txt"
           ]
         }
       ]
