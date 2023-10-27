@@ -596,13 +596,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾┃农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "ext": "./lib/nmys.json"
-    },
-    {
       "key": "csp_DiDuan",
       "name": "⏮️┃低端┃影视",
       "type": 3,
