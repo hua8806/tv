@@ -1,4 +1,5 @@
 {
+  "spider": "./fan1019.jar",
   "sites": [
     {
       "key": "豆瓣",
