@@ -29,50 +29,181 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
     {
-      "key": "csp_xml_腾讯视频",
-      "name": "腾讯视频",
-      "type": 1,
-      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.xmflv.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "csp_xml_芒果视频",
-      "name": "芒果视频",
-      "type": 1,
-      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.xmflv.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "csp_xml_爱奇视频",
-      "name": "爱奇视频",
-      "type": 1,
-      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.xmflv.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "csp_xml_哔哩哔哩",
-      "name": "哔哩哔哩",
-      "type": 1,
-      "api": "http://3.tv555.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.xmflv.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "猫眼电影",
-      "name": "猫眼电影",
+      "key": "csp_WoGG",
+      "name": "每在┃4K-C",
       "type": 3,
-      "api": "csp_XBPQ",
+      "playerType": 1,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "t4_wo",
+      "name": "每在┃4K-D",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_两个BT",
+      "name": "每在┃4K-E",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/两个BT.js"
+    },
+    {
+      "key": "zxzj",
+      "name": "每在┃4K-E",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "每在┃4K-F",
+      "type": 3,
+      "api": "csp_MYYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "Auete",
+      "name": "每在┃4K-J",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.aueteys.com/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "每在┃4K-H",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "每在|4K基地A",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/nmys.json"
+    },
+    {
+      "key": "kuaikan",
+      "name": "每在|4K基地B",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "探探",
+      "name": "每在|4K基地C",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "ext": "vip.lyyytv.cn"
+    },
+    {
+      "key": "索尼",
+      "name": "每在|4K基地D",
+      "type": 1,
+      "playerType": 2,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "记录片",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "足球",
+        "影视解说",
+        "国产动漫"
+      ]
+    },
+    {
+      "key": "yc",
+      "name": "每在|4K基地E",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+      "jar": "./lib/xry.jar"
+    },
+    {
+      "key": "UpYun",
+      "name": "每在|4K基地F",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt"
+    },
+    {
+      "key": "PanSou",
+      "name": "每在|4K基地J",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "每在|4K基地H",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "每在影视",
