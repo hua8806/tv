@@ -19,13 +19,14 @@
       "filterable":1
     },
     {
-      "key": "荐片",
-      "name": "♻️俊哥荐片.T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "key": "csp_FanYY",
+      "name": "👲┃玩偶┃影视",
+      "type": 3,
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "csp_xml_腾讯视频",
@@ -498,16 +499,6 @@
       "filterable": 1,
       "playerType": 2,
       "ext": "https://cz01.pw/"
-    },
-    {
-      "key": "csp_FanYY",
-      "name": "👲┃玩偶┃影视",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "csp_AppMr",
