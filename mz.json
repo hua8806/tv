@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_FanYY",
-      "name": "每在┃4K-A",
+      "name": "每在┃4K-A速度快",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "每在┃4K-B",
+      "name": "每在┃4K-B速度快",
       "type": 3,
       "playerType": 1,
       "api": "csp_WoGG",
@@ -32,7 +32,7 @@
     },
     {
       "key": "t4_wo",
-      "name": "每在┃4K-C",
+      "name": "每在┃4K-C速度快",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
       "searchable": 1,
