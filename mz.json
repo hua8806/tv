@@ -255,32 +255,32 @@
       ]
     },
     {
-			"key": "奇影自营",
-			"name": "奇影",
-			"type": 1,
-			"api": "http://cn.tii6.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1
-		},
-		{
-			"key": "奇影自营1",
-			"name": "奇影备用",
-			"type": 1,
-			"api": "http://test.qlkjy.cn/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1
-		},
-		{
-			"key": "奇影自营2",
-			"name": "奇影备用1",
-			"type": 1,
-			"api": "https://dytt996.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1
-		},
+     "key": "奇影自营",
+     "name": "奇影",
+     "type": 1,
+     "api": "http://cn.tii6.com/api.php/provide/vod/",
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1
+     },
+     {
+      "key": "奇影自营1",
+      "name": "奇影备用",
+      "type": 1,
+      "api": "http://test.qlkjy.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "奇影自营2",
+      "name": "奇影备用1",
+      "type": 1,
+      "api": "https://dytt996.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
     {
       "key": "PT",
       "name": "🐞短剧┃剧场",
