@@ -21,15 +21,14 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
     {
-      "key": "csp_WoGG",
+      "key": "Wogg",
       "name": "每在┃4K-B速度快",
       "type": 3,
-      "playerType": 1,
-      "api": "csp_WoGG",
+      "api": "csp_XPathAli",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "filterable": 0,
+      "ext": "./hccx/玩偶哥哥.json"
     },
     {
       "key": "t4_wo",
